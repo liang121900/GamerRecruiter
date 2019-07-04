@@ -13,6 +13,8 @@ public class RestapiApplication {
 	public String hello() {
 		return "Hello world! >>> <a href='http://upnxtblog.com' target='_blank'>upnxtblog.com</a>";
 	}
+	
+	
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestapiApplication.class, args);
