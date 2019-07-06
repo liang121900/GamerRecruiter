@@ -1,3 +1,15 @@
 I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\ViewController.java
 I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\config\SecurityConfig.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\restmodel\JwtRequest.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\config\MvcConfig.java
 I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\RestapiApplication.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\config\jwt\JwtTokenUtil.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\restmodel\JwtResponse.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\dao\RoleRepository.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\domain\Role.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\controller\AuthenticateController.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\config\jwt\JwtRequestFilter.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\service\JwtUserDetailsService.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\domain\User.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\config\jwt\JwtAuthenticationEntryPoint.java
+I:\GameRecruitApp\GamerRecruiter\restapi\src\main\java\com\upnxtblog\samples\dao\UserRepository.java

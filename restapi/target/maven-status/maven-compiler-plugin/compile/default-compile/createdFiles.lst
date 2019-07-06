@@ -1,1 +1,13 @@
+com\upnxtblog\samples\restmodel\JwtResponse.class
+com\upnxtblog\samples\dao\RoleRepository.class
+com\upnxtblog\samples\config\jwt\JwtTokenUtil.class
 com\upnxtblog\samples\RestapiApplication.class
+com\upnxtblog\samples\config\jwt\JwtRequestFilter.class
+com\upnxtblog\samples\restmodel\JwtRequest.class
+com\upnxtblog\samples\dao\UserRepository.class
+com\upnxtblog\samples\domain\User.class
+com\upnxtblog\samples\config\SecurityConfig.class
+com\upnxtblog\samples\service\JwtUserDetailsService.class
+com\upnxtblog\samples\controller\AuthenticateController.class
+com\upnxtblog\samples\config\jwt\JwtAuthenticationEntryPoint.class
+com\upnxtblog\samples\domain\Role.class

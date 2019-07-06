@@ -19,7 +19,7 @@ import com.upnxtblog.samples.restmodel.JwtRequest;
 import com.upnxtblog.samples.restmodel.JwtResponse;
 
 @RestController
-@CrossOrigin
+@CrossOrigin(origins = "http://localhost:4200")
 public class AuthenticateController {
 	@Autowired
 	private AuthenticationManager authenticationManager;
@@ -28,7 +28,7 @@ public class AuthenticateController {
 	@Autowired
 	private UserDetailsService userDetailsService;
 
-	@RequestMapping(value = "/api/authenticate", method = RequestMethod.POST)
+	@RequestMapping(value = "/api/authenticate", method = RequestMethod.POST,consumes="application/json")
 	public ResponseEntity<?> createAuthenticationToken(@RequestBody JwtRequest authenticationRequest) throws Exception {
 		System.out.println(authenticationRequest);
 		
