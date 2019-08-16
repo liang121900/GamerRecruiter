@@ -19,7 +19,7 @@ import com.upnxtblog.samples.restmodel.JwtRequest;
 import com.upnxtblog.samples.restmodel.JwtResponse;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = {"http://localhost:4200,http://localhost:3000"})
 public class AuthenticateController {
 	@Autowired
 	private AuthenticationManager authenticationManager;
